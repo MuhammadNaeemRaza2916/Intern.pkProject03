@@ -1,0 +1,53 @@
+.copy-page1 {
+    background-color: #fff;
+    padding: 5%;
+    text-align: center;
+}
+.copy-page1-list {
+    background-color: #fff;
+    padding: 5%;
+    padding-top: 8vh;
+    /* text-align: center; */
+}
+.copy-page1 h2 {
+    padding-top: 2vh;
+    /* padding-bottom: 5%; */
+}
+.copy-page1 .col-xl img {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.copy-page1 button {
+    margin-bottom: 2%;
+    /* width: 200px */
+}
+.homePageLink {
+    text-decoration: none;
+    color: #fff;
+}
+.homePageLink:hover {
+    text-decoration: none;
+    color: #fff;
+}
+.navbaar .col-xl {
+    background-color: #E9ECEF;
+    height: 10vh;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.navbaar .col-xl img {
+    margin-top: 4vh;
+    margin-left: 90%;
+}
+.container-fluid .logo {
+    margin-top: 4vh;
+    position: absolute;
+    width: 12vh;
+}
+h4 {
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+.symptoms-section {
+    color: white;
+}
